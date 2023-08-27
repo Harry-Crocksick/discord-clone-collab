@@ -16,8 +16,7 @@ html {
 
 :root {
     --num-grid-columns: 12;
-    --heading-font-size: 38px;
-    --small-heading-font-size: 24px;
+    --heading-font-size: clamp(36px, 1.15vw, 38px);
     --button-font-size: 20px;
     --context-font-size: clamp(16px, 2vw, 20px);
     --brand-color: #404EED;
