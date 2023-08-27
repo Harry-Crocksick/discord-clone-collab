@@ -82,7 +82,7 @@ p {
 
 .inner-start-journey>h2 {
     margin-top: 2rem;
-    font-size: var(--small-heading-font-size);
+    font-size: var(--heading-font-size);
 }
 
 .start-journey button:hover {
