@@ -105,8 +105,4 @@ p {
     .info.reverse>.info-hero-img {
         order: 1;
     }
-
-    h2 {
-        font-size: var(--small-heading-font-size);
-    }
 }
